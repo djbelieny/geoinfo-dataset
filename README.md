@@ -12,9 +12,9 @@ This repo contains data that we have aggregated over the years to create a compr
 	 Sample Data:
 		```
 		npa	nxx	npanxx	city	state	stateISO	country	countryISO	zipCode	gmtOffset	gmtOffsetDST	dstObserved	latitude	longitude
-		403	201	403201	Calgary	Alberta	AB			Canada	CA			T2E6M4	-7			-6				1			51.0478		-114.0585
-		403	201	403201	Calgary	Alberta	AB			Canada	CA			T2G2B3	-7			-6				1			51.0478		-114.0585
-		403	201	403201	Calgary	Alberta	AB			Canada	CA			T2J5X9	-7			-6				1			51.0478		-114.0585
+		403	201	403201	Calgary	Alberta	AB		Canada	CA		T2E6M4	-7		-6			1			51.0478		-114.0585
+		403	201	403201	Calgary	Alberta	AB		Canada	CA		T2G2B3	-7		-6			1			51.0478		-114.0585
+		403	201	403201	Calgary	Alberta	AB		Canada	CA		T2J5X9	-7		-6			1			51.0478		-114.0585
 		```
 
  - unique_cities

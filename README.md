@@ -22,7 +22,7 @@ Sample Data:
 |city|state|stateISO|country|countryISO|
 |--|--|--|--|--|
 |Abee|Alberta|AB|Canada|CA|
-|Acadia|Valley	Alberta|AB|CanadaCA|
+|Acadia|Valley	Alberta|AB|Canada|CA|
 |Acme|Alberta|AB|Canada|CA|
 |Aden|Alberta|AB|Canada|CA|
 
